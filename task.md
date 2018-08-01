@@ -14,12 +14,15 @@
 
 | item | leading | status |
 | :--------: | :--------: | :--------: |
-| etcd | chenxiaolong | todo |
-| Basic network knowledge | chenxiaolong | todo |
-| vlan & vxlan | chenxiaolong | todo |
-| docker network | chenxiaolong | todo |
-| k8s network & flannel | chenxiaolong | todo |
-| calico | chenxiaolong | todo |
+| etcd | 胡涛 | doing |
+| Basic network knowledge | 淡滔 | todo |
+| vlan & vxlan | 淡淘 | todo |
+| iptables | 陈小龙 | todo |
+| ipvs | 陈小龙 | todo |
+| docker network | 淡淘 | todo |
+| k8s network & flannel | 淡淘 | todo |
+| calico | 李伟杰 | todo |
+| kube-proxy | 李伟杰 | todo |
 
 
 - [ ] 123
