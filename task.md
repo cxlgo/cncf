@@ -18,7 +18,7 @@
 | Basic network knowledge | 淡滔 | todo |
 | vlan & vxlan | 淡淘 | todo |
 | iptables | 陈小龙 | todo |
-| ipvs | 陈小龙 | todo |
+| ipvs | 陈小龙 | doing |
 | docker network | 淡淘 | todo |
 | k8s network & flannel | 淡淘 | todo |
 | calico | 李伟杰 | todo |
